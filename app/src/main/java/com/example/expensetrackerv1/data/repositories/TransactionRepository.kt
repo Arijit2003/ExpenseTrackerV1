@@ -20,21 +20,6 @@ class TransactionRepository {
     }
 
     fun getTransactionList():MutableLiveData<List<Transaction>> {
-        /*mFirestore!!.collection("transaction")
-            .get()
-            .addOnSuccessListener { result->
-                val trancList: MutableList<Transaction> = ArrayList<Transaction>()
-                for(document in result){
-                    if(document!=null){
-                        trancList.add(document.toObject(Transaction::class.java))
-                    }
-                }
-                Log.d("FETCH_FROM_FIRESTORE","${trancList[0].transactionDate}")
-                transactionListMutableLiveData!!.postValue(trancList)
-            }
-            .addOnFailureListener { ex->
-                Log.d("FETCH_FROM_FIRESTORE","some error occurred")
-            }*/
         fetchTransactions()
         return transactionListMutableLiveData!!
     }
