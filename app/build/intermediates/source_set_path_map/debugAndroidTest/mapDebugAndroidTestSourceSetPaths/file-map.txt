@@ -1,0 +1,5 @@
+com.example.expensetrackerv1.test.app-core-1.6.1-0 C:\Users\ARIJIT\.gradle\caches\transforms-4\f492739386ad4720b1e51ff2c1f47406\transformed\core-1.6.1\res
+com.example.expensetrackerv1.test.app-androidTest-1 F:\Android\AndroidProjects\ExpenseTrackerv1\app\build\generated\res\resValues\androidTest\debug
+com.example.expensetrackerv1.test.app-mergeDebugAndroidTestResources-2 F:\Android\AndroidProjects\ExpenseTrackerv1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.expensetrackerv1.test.app-mergeDebugAndroidTestResources-3 F:\Android\AndroidProjects\ExpenseTrackerv1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.expensetrackerv1.test.app-debugAndroidTest-4 F:\Android\AndroidProjects\ExpenseTrackerv1\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

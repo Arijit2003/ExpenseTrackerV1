@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-mergeDebugResources-55:\\layout\\transaction_item.xml",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\transaction_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-mergeDebugResources-55:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-mergeDebugResources-55:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-mergeDebugResources-55:\\layout\\fragment_view_record.xml",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\fragment_view_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-mergeDebugResources-55:\\layout\\fragment_new_record.xml",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\fragment_new_record.xml"
+    },
+    {
+        "merged": "com.example.expensetrackerv1.app-mergeDebugResources-55:/layout/fragment_view_record.xml",
+        "source": "com.example.expensetrackerv1.app-main-58:/layout/fragment_view_record.xml"
+    }
+]

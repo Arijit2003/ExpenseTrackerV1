@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\menu_bnv_menu.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\menu\\bnv_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_searchview_background.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\searchview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\layout_transaction_item.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\transaction_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\layout_fragment_view_record.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\fragment_view_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_more_hori.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\more_hori.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_dashboard.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_baseline_delete_forever_24.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.expensetrackerv1.app-debug-56:/navigation_nav_graph.xml.flat",
+        "source": "com.example.expensetrackerv1.app-main-58:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_baseline_calendar_month_24.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\drawable_radio_button_background.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\drawable\\radio_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-debug-56:\\layout_fragment_new_record.xml.flat",
+        "source": "C:\\Users\\ARIJIT\\.gradle\\daemon\\8.7\\com.example.expensetrackerv1.app-main-58:\\layout\\fragment_new_record.xml"
+    }
+]

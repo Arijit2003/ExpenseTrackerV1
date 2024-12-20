@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExpenseTrackerv1</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Settings">Settings</string>
+    <string name="dummy_desc">Electricity Bill</string>
+    <string name="dummy_amount">Rs.1000.54</string>
+    <string name="dummy_type">Expense</string>
+    <string name="dummy_date">20/12/2025</string>
+    <string name="search_here">Search here...</string>
+    <string name="add_new">Add New</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="record">Record</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="write_something">write something</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="save">Save</string>
+    <string name="new_dummy_date">Date: 15/12/25</string>
+</resources>

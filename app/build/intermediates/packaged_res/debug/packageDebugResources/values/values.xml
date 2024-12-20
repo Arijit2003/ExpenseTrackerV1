@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorControlNormal">#A1A1AB</color>
+    <color name="colorError">#ED513F</color>
+    <color name="colorOnBackground">#353452</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnSurface">#353452</color>
+    <color name="colorPrimary">#4C3CCE</color>
+    <color name="colorPrimaryVariant">#F7F7F7</color>
+    <color name="colorSecondary">#6F62D8</color>
+    <color name="colorSecondaryVariant">#F7F7F7</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="textColorPrimary">#353452</color>
+    <color name="textColorSecondary">#E5E8E8F5</color>
+    <color name="textColorTertiary">#A1A1AB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Settings">Settings</string>
+    <string name="add_new">Add New</string>
+    <string name="app_name">ExpenseTrackerv1</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="dummy_amount">Rs.1000.54</string>
+    <string name="dummy_date">20/12/2025</string>
+    <string name="dummy_desc">Electricity Bill</string>
+    <string name="dummy_type">Expense</string>
+    <string name="expense">Expense</string>
+    <string name="gcm_defaultSenderId" translatable="false">1012496674687</string>
+    <string name="google_api_key" translatable="false">AIzaSyBHdAJ0nMJAFv2q2EIXnK9ooondnz40Vmw</string>
+    <string name="google_app_id" translatable="false">1:1012496674687:android:8393c05d43b794fe63344a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBHdAJ0nMJAFv2q2EIXnK9ooondnz40Vmw</string>
+    <string name="google_storage_bucket" translatable="false">generalproject-aa011.appspot.com</string>
+    <string name="income">Income</string>
+    <string name="new_dummy_date">Date: 15/12/25</string>
+    <string name="project_id" translatable="false">generalproject-aa011</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="record">Record</string>
+    <string name="save">Save</string>
+    <string name="search_here">Search here...</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="write_something">write something</string>
+    <style name="Base.Theme.ExpenseTrackerv1" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/textColorTertiary</item>
+        
+        
+    </style>
+    <style name="Theme.ExpenseTrackerv1" parent="Base.Theme.ExpenseTrackerv1"/>
+</resources>
